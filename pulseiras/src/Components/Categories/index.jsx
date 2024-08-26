@@ -1,10 +1,10 @@
 import * as S from './style'
-import camisetas from '../../assets/images/categorias/categoria-camiseta.png'
-import bolsa from '../../assets/images/categorias/categoria-bolsa.png'
-import calcados from '../../assets/images/categorias/categoria-calcados.png'
-import calcas from '../../assets/images/categorias/categoria-calcas.png'
-import casacos from '../../assets/images/categorias/categoria-casacos.png'
-import oculos from '../../assets/images/categorias/categoria-oculos.png'
+import camisetas from '/assets/images/categorias/categoria-camiseta.png'
+import bolsa from '/assets/images/categorias/categoria-bolsa.png'
+import calcados from '/assets/images/categorias/categoria-calcados.png'
+import calcas from '/assets/images/categorias/categoria-calcas.png'
+import casacos from '/assets/images/categorias/categoria-casacos.png'
+import oculos from '/assets/images/categorias/categoria-oculos.png'
 
 function Categories() {
     return(

@@ -3,15 +3,15 @@ import React, { useState, useEffect } from 'react';
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import banner1desktop from '../../assets/images/banner1desktop.svg';
-import banner1tablet from '../../assets/images/banner1tablet.svg';
-import banner1mobile from '../../assets/images/banner1mobile.svg';
-import banner2desktop from '../../assets/images/banner2desktop.svg';
-import banner2tablet from '../../assets/images/banner2tablet.svg';
-import banner2mobile from '../../assets/images/banner2mobile.svg';
-import banner3desktop from '../../assets/images/banner3desktop.svg';
-import banner3tablet from '../../assets/images/banner3tablet.svg';
-import banner3mobile from '../../assets/images/banner3mobile.svg';
+import banner1desktop from '/assets/images/banner1desktop.svg';
+import banner1tablet from '/assets/images/banner1tablet.svg';
+import banner1mobile from '/assets/images/banner1mobile.svg';
+import banner2desktop from '/assets/images/banner2desktop.svg';
+import banner2tablet from '/assets/images/banner2tablet.svg';
+import banner2mobile from '/assets/images/banner2mobile.svg';
+import banner3desktop from '/assets/images/banner3desktop.svg';
+import banner3tablet from '/assets/images/banner3tablet.svg';
+import banner3mobile from '/assets/images/banner3mobile.svg';
 
 function Carousel() {
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);

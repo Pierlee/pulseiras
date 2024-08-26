@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from '../../assets/images/logo-meteora.png'
+import logo from '/assets/images/logo-meteora.png'
 import * as S from './style'
 
 function NavigationBar() {

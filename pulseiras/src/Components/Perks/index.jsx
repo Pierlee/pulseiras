@@ -1,7 +1,7 @@
 import * as S from './style'
-import pix from '../../assets/x-diamond.svg'
-import exchange from '../../assets/arrow-repeat.svg'
-import sustainability from '../../assets/flower-1.svg'
+import pix from '/assets/x-diamond.svg'
+import exchange from '/assets/arrow-repeat.svg'
+import sustainability from '/assets/flower-1.svg'
 
 function Perks() {
     return(
